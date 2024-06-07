@@ -1,2 +1,2 @@
 # MyGitProg
-This is where i'm gonna keep all my projects.
+This is where I will keep all my projects.
