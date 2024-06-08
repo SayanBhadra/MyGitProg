@@ -1,2 +1,2 @@
 # MyGitProg
-Git Demoyyyyyyy
+Git Demo
