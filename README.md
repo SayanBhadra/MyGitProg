@@ -1,2 +1,2 @@
 # MyGitProg
-I will keep all my projects here
+Git Democlea
